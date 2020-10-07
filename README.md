@@ -1,0 +1,2 @@
+# .bashrc
+CUSTOM TERMINAL
