@@ -9,4 +9,4 @@ CUSTOM TERMINAL
 
 ### Take a look of my custom cool terminal 😎
 
-<img align="center" src="https://github.com/Praneethpsp/.bashrc/blob/main/bashrc.PNG" alt=“terminal img” width=“100%”/>
+![alt text](https://github.com/Praneethpsp/.bashrc/blob/main/bashrc.PNG?raw=true)
