@@ -7,3 +7,6 @@ CUSTOM TERMINAL
 
 ### Then you can refer to my .bashrc file in the repo. If you liked it, smack a star ⭐ to this repo!!😁
 
+### Take a look of my custom cool terminal 😎
+
+<img align="center" src="https://github.com/Praneethpsp/.bashrc/blob/main/bashrc.PNG" alt=“terminal img” width=“100%”/>
